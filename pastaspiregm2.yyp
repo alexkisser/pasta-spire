@@ -3157,6 +3157,7 @@
     {"id":{"name":"spr_decorationanimated3","path":"sprites/spr_decorationanimated3/spr_decorationanimated3.yy",},"order":2,},
     {"id":{"name":"spr_decorationanimated4","path":"sprites/spr_decorationanimated4/spr_decorationanimated4.yy",},"order":3,},
     {"id":{"name":"spr_pipe_enter","path":"sprites/spr_pipe_enter/spr_pipe_enter.yy",},"order":239,},
+    {"id":{"name":"Font6","path":"fonts/Font6/Font6.yy",},"order":5,},
     {"id":{"name":"spr_xmasspinningslice","path":"sprites/spr_xmasspinningslice/spr_xmasspinningslice.yy",},"order":240,},
     {"id":{"name":"spr_xmaspizzaboxdown","path":"sprites/spr_xmaspizzaboxdown/spr_xmaspizzaboxdown.yy",},"order":241,},
     {"id":{"name":"entrance_4","path":"rooms/entrance_4/entrance_4.yy",},"order":4,},
@@ -5369,7 +5370,9 @@
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Devspr","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Collectibles","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Pizza Tower.ttf","CopyToMask":-1,"filePath":"datafiles",},
+  ],
   "MetaData": {
     "IDEVersion": "2022.0.0.19",
   },
