@@ -19,5 +19,5 @@ Confirmed enemies:
 2. meatier meatloaf (no idea)
 3. uncooked spaghetti
 4. fake stik (pasta factory level)
-
+5.mr cheddar
 
